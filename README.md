@@ -1,12 +1,14 @@
 <div align="center">
   <a href="https://github.com/arraisArrays">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arraysArrais&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arraysArrais&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arraysArrais&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arraysArrais&layout=compact&langs_count=7&theme=vision-friendly-dark"/>-->
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arraysArrais&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arraysArrais&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
     
   <img align="center" alt="LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg">
+  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
